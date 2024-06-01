@@ -213,4 +213,4 @@ const styles = StyleSheet.create({
     color: "#000",
     marginBottom: 10,
   },
-});
+}); 
